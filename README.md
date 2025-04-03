@@ -39,3 +39,25 @@ Upload to Cloud Storage: dataset in folders
 Create a Dataflow pipeline to clean and transform data.
 
 Python script for Apache Beam:
+
+#Train Predictive Models in BigQuery ML
+
+Fraud Detection Model
+
+ Deploy Anomaly Detection API on Cloud Run
+
+Create a Pub/Sub Topic:
+
+Deploy API using Cloud Run:
+
+6️⃣ Visualize Insights in Looker Studio
+
+Connect BigQuery dataset to Looker Studio.
+
+Build dashboards for fraud detection, high-risk transactions, and churn analysis.
+
+🎯 Final Outcome
+
+✅ Fraud & churn prediction models in BigQuery ML✅ Anomaly detection & alerts with Cloud Run & Pub/Sub✅ Real-time dashboards in Looker Studio
+
+
