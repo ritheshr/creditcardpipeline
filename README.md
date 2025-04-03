@@ -56,6 +56,8 @@ Connect BigQuery dataset to Looker Studio.
 
 Build dashboards for fraud detection, high-risk transactions, and churn analysis.
 
+visualization link: https://lookerstudio.google.com/reporting/7ff785dd-f5e3-4333-9232-1e3bfc0cc641
+
 🎯 Final Outcome
 
 ✅ Fraud & churn prediction models in BigQuery ML✅ Anomaly detection & alerts with Cloud Run & Pub/Sub✅ Real-time dashboards in Looker Studio
